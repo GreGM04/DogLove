@@ -1,5 +1,7 @@
 
 
+
+
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url("fontawesome-all.min.css");
 
@@ -88,7 +90,7 @@ input, select, textarea {
 		/*background-color: #183026;*/
 		background-image: url(../css/images/bg-min.jpg);
 		background-repeat: repeat, no-repeat;
-		background-size: auto, cover;
+		background-size: 2500px;
 		background-position: top left, center 0;
 		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -1848,7 +1850,8 @@ input, select, textarea {
 		}
 
 			.box.style1 .image {
-				background-image: url(../css/images/box1.jpg);
+				background-image: url(../css/images/food2.jpg);
+				background-size: 23em;
 				display: block;
 				position: absolute;
 				top: 0;
